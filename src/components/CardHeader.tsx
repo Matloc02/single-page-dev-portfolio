@@ -1,4 +1,4 @@
-import StarIcon from '@/assets/icons/Star.svg';
+import StarIcon from '@/assets/icons/star.svg';
 import { twMerge } from 'tailwind-merge';
 
 
